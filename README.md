@@ -83,9 +83,9 @@
 ## 🧑‍💻 My Latest Projects
 
 
-- **[Portfolio](file:///C:/Anas%20portfolio/index.html#home)** - A modern, responsive personal website showcasing my skills and projects.
-- **[Check The Internet](file:///C:/internet/index.html)** - A tool to check internet connectivity with a clean design.
-- **[LogIn](file:///C:/SignUP&Login/index.html)** - A sleek and secure login form with responsive design.
+- **[Portfolio](https://anas-m-hanafi.github.io/Portfolio/)** - A modern, responsive personal website showcasing my skills and projects.
+- **[Check The Internet](https://anas-m-hanafi.github.io/check-the-Internet/)** - A tool to check internet connectivity with a clean design.
+- **[LogIn](https://anas-m-hanafi.github.io/Registration-page/)** - A sleek and secure login form with responsive design.
 
 ---
 
