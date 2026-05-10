@@ -46,7 +46,7 @@ class AnasMHanafi:
 ║                                                              ║
 ║   🌐  Web Apps        →  Python · Flask · HTML/CSS/JS        ║
 ║   🤖  AI Chatbots     →  Gemini API · Claude API            ║
-║   ⚙️  Automations     →  n8n workflows · API pipelines      ║             ║
+║   ⚙️  Automations     →  n8n workflows · API pipelines      ║
 ║   🎬  Content         →  TikTok · Reels · YT Shorts         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -61,10 +61,10 @@ class AnasMHanafi:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **AI & Automation**
 
