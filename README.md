@@ -64,6 +64,7 @@ class AnasMHanafi:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **AI & Automation**
 
@@ -71,6 +72,7 @@ class AnasMHanafi:
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-00897B?style=flat-square&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 
 **Tools**
 
@@ -81,20 +83,6 @@ class AnasMHanafi:
 ---
 
 ## `> featured_projects[]`
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📿 Quran Reader App**
-```
-Stack  → React + alquran.cloud API
-UI     → Arabic text + Sahih Int'l
-Theme  → Dark/Gold + font controls
-```
-
-</td>
-<td width="50%" valign="top">
 
 **🤖 AI Content Generator**
 ```
@@ -135,8 +123,8 @@ Goal   → Showcase skills & work
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anas-M-Hanafi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-M-Hanafi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anas-M-Hanafi&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anas-M-Hanafi&theme=github_dark" />
 
 <br/>
 
