@@ -44,10 +44,9 @@ class AnasMHanafi:
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   🌐  Web Apps        →  React · Flask · HTML/CSS/JS        ║
+║   🌐  Web Apps        →  Python · Flask · HTML/CSS/JS        ║
 ║   🤖  AI Chatbots     →  Gemini API · Claude API            ║
-║   ⚙️  Automations     →  n8n workflows · API pipelines      ║
-║   📿  Islamic Apps    →  Quran Reader (React)               ║
+║   ⚙️  Automations     →  n8n workflows · API pipelines      ║             ║
 ║   🎬  Content         →  TikTok · Reels · YT Shorts         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
