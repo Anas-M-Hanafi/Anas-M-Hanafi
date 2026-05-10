@@ -28,12 +28,18 @@ class AnasMHanafi:
     ]
     stack       = {
         "frontend" : ["HTML", "CSS", "JavaScript", "React"],
-        "backend"  : ["Python", "Flask", "REST APIs"],
-        "ai"       : ["Gemini API", "Claude API", "n8n"],
+        "backend"  : ["Python", "Flask", "PHP", "REST APIs", "SQLite"],
+        "ai"       : ["Gemini API", "Claude API", "ChatGPT API", "n8n"],
     }
     freelance   = ["Khamsat", "Mostaql", "Kaffil", "Upwork"]
     content     = ["TikTok", "YouTube Shorts", "WhatsApp Channel"]
     open_to     = "Freelance projects & collaborations ✅"
+    keywords    = [
+        "web developer egypt", "freelance developer arabic",
+        "ai automation n8n", "flask python developer",
+        "gemini api developer", "full stack freelancer",
+        "chatbot developer", "linkedin automation",
+    ]
 ```
 
 ---
@@ -50,6 +56,8 @@ class AnasMHanafi:
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+> 🔍 Keywords: `full-stack` `python` `flask` `react` `n8n` `ai-automation` `gemini-api` `chatbot` `freelancer` `egypt` `arabic` `php` `sqlite` `rest-api` `claude-api` `openai` `web-developer` `automation-workflow` `linkedin-automation` `content-creator`
 
 ---
 
@@ -83,16 +91,18 @@ class AnasMHanafi:
 
 ## `> featured_projects[]`
 
-**🤖 AI Content Generator**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🤖 LinkedIn Auto-poster**
 ```
-Stack  → n8n + Gemini 2.0 Flash
-Output → Google Sheets / Notion
-Target → TikTok · Reels · Shorts
+Stack   → n8n + Gemini 2.0 Flash
+Output  → Auto-post to LinkedIn
+Feature → Scheduled · AI-generated
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🏥 Health AI Chatbot**
@@ -103,6 +113,8 @@ Deploy → Full-stack web app
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🌐 Personal Portfolio**
@@ -110,6 +122,16 @@ Deploy → Full-stack web app
 Stack  → HTML + CSS + JS
 Design → Modern + Responsive
 Goal   → Showcase skills & work
+```
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ API Automation Pipeline**
+```
+Stack   → n8n + REST APIs
+Feature → Multi-step workflows
+Output  → Google Sheets · Notion
 ```
 
 </td>
