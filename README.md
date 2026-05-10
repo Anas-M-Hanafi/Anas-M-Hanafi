@@ -1,136 +1,172 @@
-<h1 align="center">Hi 👋, I'm Anas M Hanafi</h1>
-<h3 align="center">Front End Developer | Turning Ideas Into Elegant Code</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Anas-M-Hanafi" target="_blank">
-    <img src="https://img.shields.io/github/followers/Anas-M-Hanafi?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://www.linkedin.com/in/Anas-M-Hanafi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/anas.m.hanafi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:anas.m.hanafi@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
+```
+ █████╗ ███╗   ██╗ █████╗ ███████╗
+██╔══██╗████╗  ██║██╔══██╗██╔════╝
+███████║██╔██╗ ██║███████║███████╗
+██╔══██║██║╚██╗██║██╔══██║╚════██║
+██║  ██║██║ ╚████║██║  ██║███████║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+```
 
-### GitHub Trophies:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anas-M-Hanafi&theme=radical&row=1&column=5" alt="GitHub Trophies"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Automation+Engineer+%F0%9F%A4%96;n8n+%2B+Gemini+API+Builder+%E2%9A%A1;Content+Creator+%7C+Arabic+Tech+Space+%F0%9F%8E%AC)](https://git.io/typing-svg)
 
-## 🚀 About Me
-- 💻 **Front End Developer** skilled in **Web Development and Professional Programmer**.
----
+<br/>
 
-## 🛠️ Technologies & Tools
-### Languages:
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-m-hanafi/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yotubechane37e@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Anas-M-Hanafi)
 
-### Frameworks & Libraries:
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Anas-M-Hanafi&style=flat-square&color=58a6ff&label=Profile+Views" />
 
-### Tools:
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  </a>
-</p>
-
----
-
-### 📚 Other Skills:
-- **Responsive Design**: Expertise in making websites work seamlessly across different screen sizes and devices using HTML, CSS.
-- **HTML Semantics**: Mastering the use of semantic HTML tags (such as <header>, <footer>, <article>) to improve site structure.
-  
-## 🧑‍💻 My Latest Projects
-
-
-- **[Portfolio](https://anas-m-hanafi.github.io/Portfolio/)** - A modern, responsive personal website showcasing my skills and projects.
-- **[Check The Internet](https://anas-m-hanafi.github.io/check-the-Internet/)** - A tool to check internet connectivity with a clean design.
-- **[LogIn](https://anas-m-hanafi.github.io/Login-Page/)** - A sleek and secure login form with responsive design.
-
----
-
-## 🌱 Current Learning
-
-- **Python**
-- **JavaScripy**
----
-
-## 💬 Connect With Me:
-- 📧 [Email Me](mailto:anas.m.hanafi@example.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/Anas-M-Hanafi)
-- 📱 [Instagram](https://www.instagram.com/anas.m.hanafi)
-
----
-
-## ⚡ Fun Fact
-- 🎨 I ***Enjoy*** designing websites and creating beautiful digital experiences.
-- 💻 ***Coding*** is my form of art; I love bringing creativity to life through programming!
-
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlE8Z5fEjX9BgaY/giphy.gif" width="50"/>
-</p>
-
----
-
-## GitHub Stats
-
-<div style="background-color: #033b4a; color: #20c997; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-M-Hanafi&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
-### Top Languages:
-<p align="center" style="background-color: #033b4a; color: #20c997; padding: 10px; border-radius: 8px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-M-Hanafi&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</p>
+---
 
+## `whoami`
 
-### GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anas-M-Hanafi&theme=radical&hide_border=true)
+```python
+class AnasMHanafi:
+    name       = "Anas Mohamed Hanafi"
+    location   = "Alexandria, Egypt 🌍"
+    role       = ["Full-Stack Developer", "AI Automation Freelancer", "Tech Content Creator"]
+    platforms  = ["Khamsat", "Mostaql", "Kaffil", "Upwork"]
+    content    = ["TikTok", "YouTube Shorts", "WhatsApp Channel"]
+    language   = ["Arabic 🇪🇬", "English"]
+    available  = True  # Open to freelance projects
+```
 
+---
 
-**⚠️ Note:** "Top languages" are a metric of the languages my public code consists of and don't reflect my full experience or skill level.
+## ⚡ What I Actually Build
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🌐  Web Apps        →   Flask · React · HTML/CSS/JS   │
+│   🤖  AI Chatbots     →   Gemini API · Claude API       │
+│   ⚙️  Automations     →   n8n workflows · Scheduling    │
+│   📲  Short Content   →   TikTok · Reels · YT Shorts    │
+│   📖  Islamic Apps    →   Quran Reader (React)          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Core**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00897B?style=flat-square&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**📖 Quran Reader App**
+> React app · alquran.cloud API
+> Arabic text + Sahih Int'l translation
+> Dark/Gold theme · Font size controls
+
+</td>
+<td width="50%">
+
+**🤖 AI Content Idea Generator**
+> n8n workflow · Gemini 2.0 Flash
+> TikTok / Reels / YouTube Shorts
+> Output → Google Sheets / Notion
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏥 Health Chatbot**
+> Flask + Python backend
+> Gemini API powered responses
+> Full conversational UI
+
+</td>
+<td width="50%">
+
+**🌐 Personal Portfolio**
+> Modern responsive design
+> Showcases projects & skills
+> Clean HTML/CSS/JS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Anas-M-Hanafi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-M-Hanafi&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anas-M-Hanafi&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anas-M-Hanafi&theme=darkhub&no-frame=true&column=6&margin-w=8)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anas-M-Hanafi&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to freelance projects · AI automation · Full-stack web**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-m-hanafi/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yotubechane37e@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
