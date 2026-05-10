@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=140&section=header&text=Anas%20M.%20Hanafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Automation%20%7C%20Content%20Creator&descAlignY=60&descSize=16&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🌐+Building+Full-Stack+Web+Apps;🤖+Engineering+AI+Automation+Pipelines;⚡+n8n+%2B+Gemini+API+%2B+Flask+%2B+React;🎬+Teaching+AI+%26+Dev+in+Arabic;📿+Quran+Apps+%7C+Islamic+Tech)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🌐+Building+Full-Stack+Web+Apps;🤖+Engineering+AI+Automation+Pipelines;⚡+n8n+%2B+Gemini+API+%2B+Flask+%2B+Claude+API;💼+Freelancing+on+Khamsat+%26+Upwork)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-m-hanafi/)
